@@ -1,0 +1,43 @@
+.indexBody{
+    background-color: grey;
+    width: 100vw;
+    height: 100vw;
+    text-align: center;
+    position: relative;
+}
+.homeBody{
+    margin: auto;
+    text-align: center;
+}
+.mainLogo{
+    height: 20rem;
+    width: 30rem;
+    margin: auto;
+    margin-top: 20%;
+}
+.navLogo{
+    width: 7rem;
+    height: 4rem;
+}
+
+footer{
+    background-color: grey;
+    text-align: center;
+    height: 3rem;
+}
+.items{
+    background-color: lightgrey;
+    width: 95vw;
+    margin: auto;
+    
+}
+.rowOne{
+    position: relative;
+    
+    text-align: center;
+    margin: auto;
+
+}
+.card{
+    text-align: center;
+}
