@@ -6,10 +6,12 @@
     position: relative;
 }
 .homeBody{
+    background-color: black;
     margin: auto;
     text-align: center;
 }
 .mainLogo{
+    background-color: black;
     height: 20rem;
     width: 30rem;
     margin: auto;
