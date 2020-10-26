@@ -63,6 +63,7 @@ table{
     margin: auto;
     position: relative;
     text-align: center;
+    padding: 1rem;
 }
 .contactPage{
     background-color: lightgrey;
